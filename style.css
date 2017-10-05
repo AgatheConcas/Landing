@@ -20,8 +20,6 @@ h2 {
   color: red;
   font-weight: lighter;
   font-size: 25px;
-  border: solid black;
-  border-radius: 1px;
 
 }
 a {
@@ -63,6 +61,8 @@ a:hover {
   
 }
 .card { 
+  border: solid black;
+  border-radius: 1px;
   padding: 40px;
   font-weight: lighter;
   text-align: center;
