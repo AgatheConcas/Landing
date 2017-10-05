@@ -6,7 +6,7 @@ body{
   font-family: Arial;
   font-family: 'Mukta', sans-serif;
   font-weight: lighter;
-  padding:  
+  
 }
 h1{
   font-family: Courier;
@@ -20,7 +20,6 @@ h2 {
   color: red;
   font-weight: lighter;
   font-size: 25px;
-  border-radius: 1px;
 
 }
 a {
@@ -100,7 +99,5 @@ color: grey;
 
 #WufooForm{
 margin-bottom :10px;
-border: 2px 
-dashed: black;
 text-align: center;
 }
