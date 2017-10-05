@@ -61,7 +61,7 @@ a:hover {
   
 }
 .card { 
-  border: solid black;
+  border: solid lightgrey;
   padding: 30px;
   font-weight: lighter;
   text-align: center;
