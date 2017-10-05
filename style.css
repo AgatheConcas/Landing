@@ -20,6 +20,8 @@ h2 {
   color: red;
   font-weight: lighter;
   font-size: 25px;
+  border: solid black;
+  border-radius: 1px;
 
 }
 a {
@@ -100,5 +102,4 @@ color: grey;
 #WufooForm{
 margin-bottom :10px;
 text-align: center;
-border: solid black;
 }
