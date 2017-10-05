@@ -20,6 +20,7 @@ h2 {
   color: red;
   font-weight: lighter;
   font-size: 25px;
+  border: 1px solid black;
 }
 a {
   color: blue;
@@ -63,8 +64,6 @@ a:hover {
   padding: 40px;
   font-weight: lighter;
   text-align: center;
-  border: 2px solid black;
-
 }
 
 #footer a {
