@@ -21,6 +21,8 @@ h2 {
   font-weight: lighter;
   font-size: 25px;
   border: 1px solid black;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 a {
   color: blue;
@@ -64,6 +66,7 @@ a:hover {
   padding: 40px;
   font-weight: lighter;
   text-align: center;
+  border: 1px solid black;
 }
 
 #footer a {
