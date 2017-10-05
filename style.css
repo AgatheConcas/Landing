@@ -62,12 +62,12 @@ a:hover {
 }
 .card { 
   border: solid black;
-  border-radius: 5px;
+  border-radius: 3px;
   padding: 30px;
   font-weight: lighter;
   text-align: center;
   margin-top: 30px;
-  margin-bottom: 20px;
+  margin-bottom: 30px;
 
 }
 
