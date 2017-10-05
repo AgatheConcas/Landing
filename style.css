@@ -99,6 +99,6 @@ color: grey;
 #WufooForm{
 margin-bottom :10px;
 border: 2px 
-dashed #FF530D;
-border-color: black;
+dashed: black;
+text-align: center;
 }
