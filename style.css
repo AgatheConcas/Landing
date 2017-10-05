@@ -21,6 +21,7 @@ h2 {
   font-weight: lighter;
   font-size: 25px;
   border: 1px solid black;
+  padding: 40px;
 }
 a {
   color: blue;
