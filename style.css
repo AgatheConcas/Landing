@@ -72,6 +72,7 @@ a:hover {
   padding: 8px; 
 
 }
+
 #footer a:hover {
 color: white;
 font-size: 25px;
@@ -95,14 +96,4 @@ color: grey;
 
 #WufooForm{
 margin-bottom :10px;
-border-color: black;
-border-radius: 10px;
-border-right: 10px
 }
-
-
-
-
-
-
-
